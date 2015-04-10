@@ -1,0 +1,10 @@
+{
+    "name": "Beta",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Beta.xml",
+    "author": "BayviewMS",
+    "minimum_firmware_version": 42
+}
